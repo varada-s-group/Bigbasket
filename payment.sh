@@ -1,6 +1,0 @@
-#!/bin/bash
-
-PG=ICICI
-IFSC=0003856
-ACNO=78654329005
-
