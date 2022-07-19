@@ -2,6 +2,7 @@ class produc
 {
 	public static void main()
 	{
-		print("hello");
+	system.out.println("product page");
+
 	}
 }	
